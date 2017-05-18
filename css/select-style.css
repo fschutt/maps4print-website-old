@@ -1,0 +1,44 @@
+.m4p-select-style{
+	display: flex;
+	flex-direction: row;
+	align-items: stretch;
+	justify-content: space-between;
+	width: 100%;
+}
+@media(max-width: 800px){
+	.m4p-select-style{
+		flex-direction: column;
+	}
+}
+
+.m4p-select-style-col{
+	padding: 1.2em;
+}
+
+.m4p-select-style-col#col-select-map{
+	background-color: #333;
+	color: #fff;
+	flex: 1;
+}
+
+.m4p-select-style-col#col-show-style{
+	background-color: #fff;
+	flex: 4;
+}
+
+.m4p-select-style-col#col-show-style-options{
+	background-color: #fff;
+	border-left: 1px solid #efefef;
+	flex: 2;
+}
+
+.map-list-container-style ul{
+	padding: 0px;
+	list-style-type: none;
+}
+
+.m4p-map-preview-small{
+	height: 100px;
+	background-color: red;
+	max-width: 400px;
+}

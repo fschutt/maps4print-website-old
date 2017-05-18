@@ -1,0 +1,38 @@
+#todo-search{
+	min-width: 300px;
+	min-height: 40px;
+	margin-bottom: 15px;
+	padding-left: 10px;
+}
+
+#table-todo{
+	text-align: left;
+	border: 0px solid transparent;
+	width: 100%;
+	font-size: 0.8em;
+}
+
+#table-todo *{
+	padding: 5px 10px;
+}
+
+#table-todo thead{
+	background-color: #0D47A1;
+	color: white;
+}
+
+#table-todo #id{
+	min-width: 4em;
+}
+
+#table-todo #status{
+	min-width: 3em;
+}
+
+#table-todo #date{
+	max-width: 130px;
+}
+
+#table-todo #description{
+	min-width: 30em;
+}

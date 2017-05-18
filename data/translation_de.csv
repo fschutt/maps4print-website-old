@@ -1,0 +1,77 @@
+GLOBAL;GLOBAL_HOMEPAGE;Startseite
+HOMEPAGE;GLOBAL_PAGE_TITLE;Maps4Print - Karten online bestellen
+HOMEPAGE;GLOBAL_PAGE_TITLE_EXTRA;
+HOMEPAGE;GLOBAL_PAGE_KEYWORDS;osm, vektor-karte, kartographie, kartografie, online-karte, karte druck
+HOMEPAGE;GLOBAL_PAGE_DESCRIPTION;Bestellen Sie zum günstigen Preis lizenzfreie Vektor-Karten mit Ihrem persönlichen Stil- schon ab 49€. Inklusive Beratung, GPX-Tracks und manuelle Kartographie auf Wunsch.
+HOMEPAGE;GLOBAL_PAGE_LANGUAGE;de
+HOMEPAGE;SECTION_1_HEADER;Karten soweit das Auge reicht
+HOMEPAGE;SECTION_1_DESC;Maps4Print ist ein Online-Kartografiedienst, der Ihnen die Suche nach der richtigen Karte abnimmt. Ob Übersichtskarten, Landkarten, Atlanten - hier finden Si garantiert die richtige Karte.
+HOMEPAGE;SECTION_1_IMAGE_ALT;Maps4Print Webanwendung
+HOMEPAGE;SECTION_1_SEARCH_PLACEHOLDER;Ihre Stadt suchen…
+HOMEPAGE;SECTION_2_HEADER;Vektorkarten ohne Nutzungsbeschränkungen
+HOMEPAGE;SECTION_2_DESC;Unsere Karten sind standardmäßig für Adobe Illustrator® optimiert, nach Ebenen separiert und sofort per Download verfügbar. Durch die Nutzung von kostenlose OpenStreetMap-Daten können wir weltweit Karten erstellen – ohne Nutzungskosten!
+HOMEPAGE;SECTION_2_IMAGE_ALT;Kartenbeispiel – Ebenenseparierte Karte in Adobe Illustrator®
+HOMEPAGE;SECTION_3_HEADER_1;Eine große Auswahl an Kartenstilen
+HOMEPAGE;SECTION_3_DESC_1;Mit über 30 individuell anpassbaren Stilen finden Sie garantiert die richtige Karte. Unser einfach zu bedienender Karteneditor hilft Ihnen bei der richtige Auswahl – hier können Sie nach Belieben Ebenen an- und ausschalten. Unsere intelligente Software optimiert dabei die Schriften im Hintergrund.
+HOMEPAGE;SECTION_3_HEADER_2;Gestalten Sie ganz einfach Ihre individuelle Karte - wir kümmern uns um den Rest
+HOMEPAGE;SECTION_3_DESC_2;Wir sind Kartografen alter Schule. Aber Karten per Hand zu erstellen dauert lange und ist teuer. Darum haben wir Werkzeuge zur automatischen Kartografi entwickelt. So können Sie Ihre Karte schon in einer halben Stunde in der Hand halten!
+HOMEPAGE;SECTION_4_HEADER_0;Wandkarten, Landkarten, Stadtpläne, . . .
+HOMEPAGE;SECTION_4_HEADER_1;Für jeden Fall das richtige Format
+HOMEPAGE;SECTION_4_DESC_1;Sie haben eine Idee für eine Karte? Wir haben die passende Lösung. Schauen Sie sich eine Vielzahl von Beispielkarten an, die wir bereits erstellt haben un überzeugen Sie sich von unserer Kartenqualität.
+HOMEPAGE;SECTION_4_HEADER_2;Service rund um die Uhr
+HOMEPAGE;SECTION_4_DESC_2;Ist Ihre Karte nicht gelungen? Brauchen Sie einen eigenen Kartenstil oder kommen mit unserem Editor nicht klar? Gerne bieten wir kostenlose Beratung an Schreiben Sie uns direkt an(info@maps4print.com) oder rufen Sie uns an: 00000-000000 (werktags von 9 - 17 Uhr). Wir freuen uns auf Ihren Anruf.
+HOMEPAGE;SECTION_4_IMAGE_ALT;Anpassung eines Kartenstils
+HOMEPAGE;SECTION_5_HEADER_1;Keine Lizenzkosten
+HOMEPAGE;SECTION_5_DESC_1;Wir stellen professionelle Vektorkarten aus OpenStreetMap-Daten, welche kostenlos verfügbar sind, her. Das bedeutet, dass es keine Extrakosten bei eine höheren Druckauflage gibt.
+HOMEPAGE;SECTION_5_HEADER_2;Kartographische Services auf Wunsch 
+HOMEPAGE;SECTION_5_DESC_2;Ihnen passt die Schriftplatzierung nicht?  Wir bieten manuelle Services an um z.B. Symbol- und Schriftfehler zu korrigieren, Schriften und Anzeigen z setzen oder Sie beim kompletten Druckvorgang bis zum Endprodukt zu begleiten.
+HOMEPAGE;SECTION_6_HEADER_1;Einfache Adressensuche
+HOMEPAGE;SECTION_6_DESC_1;Möchten Sie bestimmte Adressen in Ihrer Karte darstellen? Unser einfacher Adressenfinder hilft Ihnen dabei. Laden Sie Ihre Adressen hoch oder nutzen Si unsere Tools um schnell ihre Punkte festzulegen.
+HOMEPAGE;SECTION_7_HEADER_1;Ihre Karte wartet auf Sie.
+HOMEPAGE;SECTION_7_BUTTON_1;Zum Karteneditor
+GLOBAL;GLOBAL_CONTACT;Kontakt
+GLOBAL;GLOBAL_TERMS_OF_SERVICE;ABG
+GLOBAL;GLOBAL_PRIVACY;Datenschutz
+GLOBAL;GLOBAL_MAP_EDITOR;Karteneditor
+GLOBAL;GLOBAL_SERVICES;Services
+GLOBAL;GLOBAL_MY_ACCOUNT;Mein Account
+GLOBAL;GLOBAL_REGISTER;Registrieren
+GLOBAL;GLOBAL_LOGIN;Login
+MAP_EDITOR;GLOBAL_PAGE_TITLE;Karteneditor
+MAP_EDITOR;GLOBAL_PAGE_TITLE_EXTRA; | Maps4Print – Karten online bestellen
+MAP_EDITOR;GLOBAL_PAGE_KEYWORDS;gpx track, gps, karten editor online, osm, openstreetmap, poi, adressen karte
+MAP_EDITOR;GLOBAL_PAGE_DESCRIPTION;Nutzen Sie unseren einfachen Karteneditor um Ausschnitte und Stile festzulegen, Adressen zu geokodieren oder GPS-Tracks so anzupassen, wie Sie e möchten.
+MAP_EDITOR;GLOBAL_PAGE_LANGUAGE;de
+MAP_EDITOR;TRACK_USER_PROGRESS_1;1. Kartenausschnitt festlegen
+MAP_EDITOR;TRACK_USER_PROGRESS_2;2. Stil wählen
+MAP_EDITOR;TRACK_USER_PROGRESS_3;3. Bestellen
+MAP_EDITOR;SLIDE_1_SEARCH_CITY;Stadt suchen
+MAP_EDITOR;SLIDE_1_SET_MARKER;Marker setzen
+MAP_EDITOR;SLIDE_1_MAP_LIST_HEADER;Karten
+MAP_EDITOR;SLIDE_1_ENTER_MAP_NAME;Kartenname eingeben
+MAP_EDITOR;SLIDE_1_WIDTH;Breite
+MAP_EDITOR;SLIDE_1_HEIGHT;Höhe
+MAP_EDITOR;SLIDE_1_SCALE;Maßstab
+MAP_EDITOR;SLIDE_1_ADD_MAP;Karte hinzufügen
+MAP_EDITOR;SLIDE_1_FOCUS_ON_MAP;Auf Karte zoomen
+MAP_EDITOR;SLIDE_1_LOCK_SCALE;Maßstab sperren
+MAP_EDITOR;SLIDE_1_COPYRIGHT;&copy OpenStreetMap-Mitwirkende
+MAP_EDITOR;SLIDE_1_REMOVE_MAP;Kartenausschnitt löschen
+MAP_EDITOR;SLIDE_1_NEXT_STEP;Nächster Schritt
+MAP_EDITOR;SLIDE_2_LIST_OF_MAPS;Karten
+MAP_EDITOR;SLIDE_2_DEFAULT_TITLE;Karte #
+MAP_EDITOR;SLIDE_2_AVAILABLE_STYLES;Verfügbare Stile
+MAP_EDITOR;SLIDE_2_STYLE_OPTIONS;Stil-Optionen
+SERVICES;SECTION_1_HEADER;Services
+SERVICES;SECTION_1_DESC_1; Die folgenden kartografischen Dienste werden von uns angeboten:
+SERVICES;SECTION_1_DESC_2;Korrigierung von Schriftpositions- und Symbolfehlern 
+SERVICES;SECTION_1_DESC_3;Nachträgliche Einarbeitung von Symbolen, POIs und GPS-Tracks 
+SERVICES;SECTION_1_DESC_4;Anzeigen, Rahmen, Strassenverzeichnisse setzen 
+SERVICES;SECTION_1_DESC_5;Grafik- und Titelblattdesign 
+SERVICES;SECTION_1_DESC_6;Abwicklung des Druckvorgangs der Karte mit Druckhäusern
+SERVICES;SECTION_1_DESC_7;(diedruckerei, NINO Druck) 
+SERVICES;SECTION_1_DESC_8;Sonderauftäge (Schilder, Infotafeln, 3D-Karten, Touch-Karten) 
+SERVICES;SECTION_1_TRAILER;Interessiert? Bestellen Sie einfach den Service in ihrem Kundenkonto.
+SERVICES;SECTION_1_YOUR_ACCOUNT;Zum Kundenkonto
+SERVICES;SECTION_2_HEADER_0;Services im Detail
+SERVICES;SECTION_2_HEADER_1; Korrigieren von Schriftpositionsfehlern 

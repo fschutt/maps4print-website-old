@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>test</title>
+	<script src="../../js/angular.min.js"></script>
+	<script src="../../js/leaflet.js"></script>
+	<link rel="stylesheet" href="../../css/leaflet.css">
+</head>
+<body ng-app="M4POrderProcess">
+
+<!--MAPS-->
+<form ng-controller="formCtrl">
+  <input type="text"  ng-model="mapName" placeholder="Kartenname"/>
+  <button ng-click="addMap()">Karte hinzufügen</button>
+</form>
+<hr/>
+<ul ng-controller="mapListCtrl">
+  <li ng-repeat="map in maps() track by $index">
+    {{ map.mapName }} - {{ map.width }} x {{ map.height }}<br>
+    Coordinates:<br/>
+    {{ map.north }}, {{ map.east }}, {{ map.south }}, {{ map.west }}
+    <button ng-click="removeMap($index)">Karte löschen</button>
+  </li>
+</ul>
+<!--/MAPS-->
+
+<!--SEARCH-->
+<form ng-controller="searchCtrl">
+  <input type="text"  ng-model="queryStr" placeholder="Suche..."/>
+  <button ng-click="getInfo()">Suchen</button>
+</form>
+<br>
+--Results:
+<ul ng-controller="listSearchResultsCtrl">
+	<li ng-repeat="result in searchResults() track by $index" ng-click="zoomToSearchResult($index)">
+		{{result.display_name}}
+	</li>
+</ul>
+<!--/SEARCH-->
+
+<div id="mapid" style="height: 500px; width: 800px;" ng-controller="leafletDisplayCtrl"/>
+
+<!--SCRIPTS-->
+<script src="../../js/displayMapService.js"></script>
+<script src="../../js/clean/searchNominatim.js"></script>
+<script src="../../js/clean/listOrderedMaps.js"></script>
+
+</body>
+</html>
